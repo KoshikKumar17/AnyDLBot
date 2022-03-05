@@ -1,5 +1,5 @@
 ## [AnyDLBot](https://telegram.dog/AnyDLBot)
-## All thanks ❤️ to [SpEcHiDe](https://t.me/SpEcHlDe)
+## All thanks ❤️ to [SpEcHiDe](https://telegram.me/SpEcHlDe)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
